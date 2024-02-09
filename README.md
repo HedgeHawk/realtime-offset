@@ -17,7 +17,7 @@ This Linux kernel module provides the offset between `clock_monotonic` and `cloc
 
 1. Clone the repository:
    ```sh
-   git clone https://github.dev/HedgeHawk/realtime-offset.git
+   git clone https://github.com/HedgeHawk/realtime-offset.git
    cd realtime-offset
    ```
 
